@@ -1,0 +1,49 @@
+body {
+  font-family: system-ui;
+  background: white;
+  color: black;
+  text-align: center;
+}
+#main {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: rgb(207, 204, 204);
+  padding-bottom: 20px;
+}
+#title {
+  font-size: 40px;
+  margin: auto;
+}
+.titulo-2 {
+  font-weight: normal;
+  color: rgb(54, 52, 52);
+}
+#img-div {
+  background-color: white;
+  padding: 20px;
+  margin: auto;
+}
+#image {
+  height: auto;
+  max-width: 90%;
+  display: block;
+  margin: 0 auto;
+}
+
+li {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: left;
+}
+#tribute-info {
+  width: 40%;
+  margin: auto;
+}
+.parrafo-1,
+.parrafo-2 {
+  font-style: italic;
+  text-align: left;
+}
+.parrafo-3 {
+  padding-top: 30px;
+}
